@@ -4,4 +4,4 @@
 - House Price: Predicted sales prices and practiced feature engineering, RFs, and gradient boosting
 - Titanic: Predicted survived people from Kaggle Titanic Dataset
 - Student: Predicted student gender by Decision Tree, Deep Learning and SVM with cross validation
-- Expedia Trip: Working on it
+- Expedia Trip: Working on it now
